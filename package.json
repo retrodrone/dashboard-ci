@@ -1,0 +1,15 @@
+{
+  "name": "dashboard-ci",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Demo app for Team Shell Stack",
+  "main": "app.js",
+  "author": "Brian Kirkland <brian.kirkland@live.com>",
+  "license": "You'd have to be mad to use this in production :-D",
+  "dependencies": {
+    "express": "3.2.4",
+    "jade": "1.11.0",
+    "mocha": "1.20.1",
+    "supertest": "1.1.0"
+  }
+}
